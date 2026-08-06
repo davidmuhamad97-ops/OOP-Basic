@@ -10,13 +10,13 @@ namespace OOPBasic
     {
         public static void main()
         {
-            ElectricCar tesla = new ElectricCar("Tesla", "Model S", 2022, 100);
+            ElectricCar tesla = new ElectricCar("Honda", "Model S", 2022, 100);
 
             tesla.displayInfo();
             tesla.Start();
             tesla.chargeBatery();
 
-            GasCar toyota = new GasCar("Toyota", "Camry", 2021, 50);
+            GasCar toyota = new GasCar("Toyota", "Suzuki", 2021, 50);
             
             toyota.displayInfo();
             toyota.Start();

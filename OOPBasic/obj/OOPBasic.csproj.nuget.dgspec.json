@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Documents\\C#\\OOP-Basic\\OOPBasic\\OOPBasic.csproj": {}
+    "C:\\C# Basic\\OOP-Basic\\OOPBasic\\OOPBasic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Documents\\C#\\OOP-Basic\\OOPBasic\\OOPBasic.csproj": {
+    "C:\\C# Basic\\OOP-Basic\\OOPBasic\\OOPBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Documents\\C#\\OOP-Basic\\OOPBasic\\OOPBasic.csproj",
+        "projectUniqueName": "C:\\C# Basic\\OOP-Basic\\OOPBasic\\OOPBasic.csproj",
         "projectName": "OOPBasic",
-        "projectPath": "C:\\Users\\david\\Documents\\C#\\OOP-Basic\\OOPBasic\\OOPBasic.csproj",
+        "projectPath": "C:\\C# Basic\\OOP-Basic\\OOPBasic\\OOPBasic.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Documents\\C#\\OOP-Basic\\OOPBasic\\obj\\",
+        "outputPath": "C:\\C# Basic\\OOP-Basic\\OOPBasic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
