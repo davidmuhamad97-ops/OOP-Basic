@@ -15,7 +15,7 @@ namespace OOPBasic
 
             Kalkulator kalkulator = new Kalkulator();
             int hasil1 = kalkulator.Tambah(5, 11); // Memanggil metode Tambah dengan parameter int
-            double hasil2 = kalkulator.Tambah(3.5, 4.5); // Memanggil metode Tambah dengan parameter double
+            double hasil2 = kalkulator.Tambah(3.45, 4.5); // Memanggil metode Tambah dengan parameter double
 
             Console.WriteLine("Hasil penjumlahan int: " + hasil1); // Output: Hasil penjumlahan int: 15
             Console.WriteLine("Hasil penjumlahan double: " + hasil2); // Output: Hasil penjumlahan double: 8
